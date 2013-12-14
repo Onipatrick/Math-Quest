@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Amount for the alpha value to reach. This value should be between 0 and 100. -->
+    <integer name="button_click_animation_fade_amount">50</integer>
+    
+    <!-- Duration of the animation measured in milliseconds. -->
+    <integer name="button_click_animation_duration">100</integer>
+    
+    <!-- Amount for the alpha value to reach. This value should be between 0 and 100. -->
+    <integer name="scale_animation_scale_amount">150</integer>
+    
+    <!-- Duration of the animation measured in milliseconds. -->
+    <integer name="scale_animation_duration">1500</integer>
+    
+</resources>

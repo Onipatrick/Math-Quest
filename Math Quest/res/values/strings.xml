@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Build number -->
+    <string name="build_number">Build 0.0.1</string>
+    
+    <string name="app_name">Math Quest</string>
+    <string name="action_settings">Settings</string>
+    <string name="score">Score</string>
+    <string name="default_problem">3__3 = 9</string>
+    <string name="add">Add</string>
+    <string name="sub">Subtract</string>
+    <string name="mul">Multiply</string>
+    <string name="div">Divide</string>
+    <string name="start">Start the Game</string>
+    <string name="end">Start a New Game</string>
+    <string name="advance_to_page_two">Go to the next page</string>
+   
+    <!-- String array that contains the problems stored as a string -->
+    <string-array name="problems">
+        <item >3__3=9</item>
+        <item >5__5=1</item>
+        <item >4__3=7</item>
+        <item >8__4=32</item>
+        <item >9__9=81</item>
+        <item >2__5=10</item>
+        <item >6__9=15</item>
+        <item >8__4=2</item>
+        <item >3__5=8</item>
+        <item >9__3=6</item>
+    </string-array>
+    <!-- String array containing the solutions to the problems
+    add = Addition
+    sub = Subtraction
+    mul = Multiplication
+    div = Division
+    *****Index of problem must match index of solution***** -->
+    <string-array name="solutions">
+        <item >mul</item>
+        <item >div</item>
+        <item >add</item>
+        <item >mul</item>
+        <item >mul</item>
+        <item >mul</item>
+        <item >add</item>
+        <item >div</item>
+        <item >add</item>
+        <item >sub</item>
+    </string-array>
+    <!-- String array that contains the level two problems -->
+    <string-array name="problems_level_2">
+    <item >10__10=100</item>
+    <item >13__2=26</item>
+    <item >67__78=145</item>
+    <item >56__32=24</item>
+    <item >88__8=11</item>
+    <item >76__76=0</item>
+    <item >99__56=155</item>
+    <item >4__72=288</item>
+    <item >60__44=104</item>
+    <item >34__23=11</item>
+    </string-array>
+    
+
+</resources>
